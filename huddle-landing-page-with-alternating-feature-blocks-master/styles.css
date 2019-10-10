@@ -1,0 +1,59 @@
+
+.mastHead{
+  background-color: hsl(193, 100%, 96%);
+  width: 100%;
+  flex-wrap: wrap;
+
+}
+
+
+.calltoA{
+  display: flex;
+  width: 100%;
+}
+
+.hero{
+  width: 50%;
+}
+.compScreen{
+  width: 50%;
+  display: inline-block;
+  text-align: center;
+
+}
+
+.info{
+  width: 50%;
+}
+
+
+
+/* End of mastHead */
+
+ /* Mid Column */
+
+.section{
+  width: 100%;
+  display: flex;
+  border : 2px solid grey;
+  margin : 20px;
+
+
+}
+
+
+p{
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.info2{
+   width:50%;
+   margin: 40px 20px ;
+
+}
+.hero2{
+  width: 50%;
+  margin: 40px 20px ;
+  text-align: center;
+}
